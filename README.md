@@ -9,3 +9,6 @@ Trains a decision tree on a transaction dataset
 Identifies patterns that differentiate fraud from legitimate transactions
 Evaluates performance using metrics such as precision, recall, and F1-score
 Visualizes results with easy-to-interpret graphs. 
+
+
+I wrote a full article about: https://medium.com/@fernandasampaio_74014/decision-tree-ec2ec6ff7f72
